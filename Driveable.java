@@ -13,7 +13,7 @@ public class Bicycle implements Driveable{
 
     @Override
     public void stop() {
-        System.out.println("🚲自行车刹车");
+        System.out.println("🚲自行车刹车");   
     }
 
     @Override
